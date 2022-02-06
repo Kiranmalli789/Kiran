@@ -44,7 +44,7 @@ RDout changes,i.e, there is no power is consumed or dissipated if the next data 
 consumption of when consecutive readout values are same.
 
 ## Simulation Waveforms
-
+![fin out3 3](https://user-images.githubusercontent.com/99113992/152672506-6f7aa7d9-1b43-4fb6-b1f8-ea96b773651a.PNG)
 As we have discussed earlier when WL=1,then the write operation is possible and the Q gets the BL value and Qb gets the inverted value of Q.And when RE=1 and REB=0, then 
 the Transmission gate is active state and it passes the inverted Q(i.e,Qb) to the RD terminal.
 
